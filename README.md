@@ -1,4 +1,4 @@
-# E-Commerce Digital Analytics Project
+<img width="140" height="80" alt="image" src="https://github.com/user-attachments/assets/323eae33-20ed-490c-9280-47d836a81433" /># E-Commerce Digital Analytics Project
 
 > **End-to-end e-commerce analytics solution combining SQL, Power BI, Python predictive modeling, and Streamlit deployment.**
 
@@ -170,8 +170,8 @@ Three production-oriented models were developed and deployed:
 - Problem type: Binary classification
 - Base conversion rate: **6.8%**
 - Candidate models: Logistic Regression, Random Forest, XGBoost, LightGBM
-- **Best model: Random Forest**
-- **ROC-AUC: 0.813**
+- **Best model: XGBoost**
+- **ROC-AUC: 0.812**
 - Key drivers included repeat-session behavior, device type, UTM source/campaign, month, and day of week
 
 ### Model 2 — Refund Risk Probability
